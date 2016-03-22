@@ -26,8 +26,8 @@
       },
       "location": {
         "title": "Location",
-        "type": "string",
-        "format": "selector",
+        "type": "object",
+        "format": "element",
         "order": 2
       },
       "translate": {
